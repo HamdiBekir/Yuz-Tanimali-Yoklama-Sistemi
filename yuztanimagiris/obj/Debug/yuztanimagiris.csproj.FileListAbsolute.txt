@@ -1,0 +1,44 @@
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\yuztanimagiris.exe.config
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\yuztanimagiris.exe
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\yuztanimagiris.pdb
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.Form1.resources
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.Properties.Resources.resources
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.exe
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.pdb
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.giris.resources
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.Form2.resources
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.adminpanel.resources
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\ZedGraph.dll
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\Emgu.CV.xml
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\bin\Debug\Emgu.Util.xml
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.ögrencikayit.resources
+C:\Users\Samsung\Desktop\yuztanimagiris\yuztanimagiris\obj\Debug\yuztanimagiris.ögrenciyoklama.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\yuztanimagiris.exe.config
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.exe
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.pdb
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\yuztanimagiris.exe
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\yuztanimagiris.pdb
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\ZedGraph.dll
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\Emgu.CV.xml
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\Emgu.CV.GPU.xml
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\Emgu.CV.ML.xml
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\bin\Debug\Emgu.Util.xml
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.adminpanel.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.giris.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.Properties.Resources.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.ögrencikayit.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.ögrenciyoklama.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.csproj.GenerateResource.Cache
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.ogrencitable.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.admintablo.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.adminpanelgiris.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.dersliktablo.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.DerslikTerminal.resources
+C:\Users\Samsung\Desktop\yuztanimagiris - Kopya\yuztanimagiris\obj\Debug\yuztanimagiris.terminal_tablo.resources

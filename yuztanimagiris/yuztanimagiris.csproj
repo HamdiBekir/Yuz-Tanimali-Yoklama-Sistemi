@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{81AFCD37-4ABA-408D-BBDB-1CF6ED651E3E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>yuztanimagiris</RootNamespace>
+    <AssemblyName>yuztanimagiris</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Emgu.CV, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.GPU, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.GPU.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.ML, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.ML.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.CV.UI, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.CV.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Emgu.Util, Version=2.4.10.1939, Culture=neutral, PublicKeyToken=7281126722ab4438, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Emgu.Util.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admintablo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admintablo.Designer.cs">
+      <DependentUpon>admintablo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessRecognition.cs" />
+    <Compile Include="Classifier_Train.cs" />
+    <Compile Include="adminpanelgiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminpanelgiris.Designer.cs">
+      <DependentUpon>adminpanelgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminpanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminpanel.Designer.cs">
+      <DependentUpon>adminpanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dersliktablo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dersliktablo.Designer.cs">
+      <DependentUpon>dersliktablo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DerslikTerminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DerslikTerminal.Designer.cs">
+      <DependentUpon>DerslikTerminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ogrencitable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ogrencitable.Designer.cs">
+      <DependentUpon>ogrencitable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="terminal_tablo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="terminal_tablo.Designer.cs">
+      <DependentUpon>terminal_tablo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ögrencikayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ögrencikayit.Designer.cs">
+      <DependentUpon>ögrencikayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ögrenciyoklama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ögrenciyoklama.Designer.cs">
+      <DependentUpon>ögrenciyoklama.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="admintablo.resx">
+      <DependentUpon>admintablo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminpanelgiris.resx">
+      <DependentUpon>adminpanelgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminpanel.resx">
+      <DependentUpon>adminpanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dersliktablo.resx">
+      <DependentUpon>dersliktablo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DerslikTerminal.resx">
+      <DependentUpon>DerslikTerminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ogrencitable.resx">
+      <DependentUpon>ogrencitable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="terminal_tablo.resx">
+      <DependentUpon>terminal_tablo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ögrencikayit.resx">
+      <DependentUpon>ögrencikayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ögrenciyoklama.resx">
+      <DependentUpon>ögrenciyoklama.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
